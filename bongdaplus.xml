@@ -51,7 +51,7 @@
                             </AdParameters>
                             <MediaFiles>
                                 <MediaFile id="" width="640" height="360" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
-                                    <![CDATA[ https://cdn.jsdelivr.net/gh/vyalwayssmile/helpfull@v1.0.4/capping-test.js ]]>
+                                    <![CDATA[ https://cdn.jsdelivr.net/gh/vyalwayssmile/helpfull@v1.0.5/vpaid.js ]]>
                                 </MediaFile>
                             </MediaFiles>
                         </Linear>

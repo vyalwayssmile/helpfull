@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+        <Ad id="1676296667244">
+            <InLine>
+                <AdSystem>
+                    <![CDATA[ Media ]]>
+                </AdSystem>
+                <AdTitle>
+                    <![CDATA[ AdSystem ]]>
+                </AdTitle>
+                <Description>
+                    <![CDATA[ ]]>
+                </Description>
+                <Impression id="Impression">
+                    <![CDATA[ ]]>
+                </Impression>
+                <Creatives>
+                    <Creative id="1676296667244" AdID="1676296667244" sequence="1">
+                        <Linear skipoffset="00:00:30">
+                            <Duration>00:00:30</Duration>
+                            <VideoClicks>
+                                <ClickThrough>
+                                    <![CDATA[ https://media.com/ ]]>
+                                </ClickThrough>
+                                <ClickTracking>
+                                    <![CDATA[ ]]>
+                                </ClickTracking>
+                            </VideoClicks>
+                            <TrackingEvents>
+                                <Tracking event="start">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                                <Tracking event="firstQuartile">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                                <Tracking event="midpoint">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                                <Tracking event="thirdQuartile">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                                <Tracking event="complete">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                                <Tracking event="creativeView">
+                                    <![CDATA[ ]]>
+                                </Tracking>
+                            </TrackingEvents>
+                            <AdParameters>
+                                <![CDATA[ { "skipoffset": "30", "vast_list": [{ "type": 1, "vast": "https://as.innity.com/synd/?pub=18a411989b47ed75a60ac69d9da05aa5&zone=93300&output=xml&cat=&url=https%3A%2F%2Fwww.phunuvagiadinh.vn%2F&cb=" }], "vpaid_mode": "INSECURE", "timeShowSkipAd": 5 } ]]>
+                            </AdParameters>
+                            <MediaFiles>
+                                <MediaFile id="" width="640" height="360" type="application/javascript" delivery="progressive" maintainAspectRatio="true" scalable="true" apiFramework="VPAID">
+                                    <![CDATA[ https://cdn.jsdelivr.net/gh/vyalwayssmile/helpfull@v1.0.5/vpaid.js ]]>
+                                </MediaFile>
+                            </MediaFiles>
+                        </Linear>
+                    </Creative>
+                </Creatives>
+            </InLine>
+        </Ad>
+    </VAST>
